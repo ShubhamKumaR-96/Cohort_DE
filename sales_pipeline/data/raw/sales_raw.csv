@@ -1,0 +1,511 @@
+order_id,order_date,customer_name,customer_email,city,product_name,category,quantity,unit_price,discount_pct,discount_amount,total_price,payment_method,status
+ORD-0001,2026-01-30,Aryan Maharaj,udantdewan@example.net,Ludhiana,Mouse,Electronics,1,499,15,74.85,424.15,Credit Card,Completed
+ORD-0002,2025-07-05,Pahal Balay,chandertejas@example.org,Mumbai,Keyboard,Electronics,1,999,15,149.85,849.15,Net Banking,Returned
+ORD-0003,2025-12-09,Rushil Saini,saumyamall@example.org,Hyderabad,Laptop,Electronics,1,55000,0,0.0,55000.0,Credit Card,Pending
+ORD-0004,2026-03-17,Pahal Oak,nachiket35@example.org,Kolkata,Laptop,Electronics,5,55000,0,0.0,275000.0,Credit Card,Returned
+ORD-0005,2025-07-02,Gunbir Parmer,aishani07@example.net,Bangalore,Notebook,Stationery,1,120,20,24.0,96.0,Cash,Completed
+ORD-0006,2025-07-14,Farhan Memon,rehaan10@example.net,Chennai,Notebook,Stationery,2,120,0,0.0,240.0,UPI,Completed
+ORD-0007,2025-08-23,Fariq Kaul,raiarunima@example.com,CHENNAI,Monitor,Electronics,1,18000,0,0.0,18000.0,Net Banking,Completed
+ORD-0008,2026-01-28,Nicholas Prabhakar,shaurya41@example.net,Mumbai,Laptop,Electronics,4,55000,10,5500.0,198000.0,Cash,Completed
+ORD-0009,2026-01-28,Yash Gade,rraghavan@example.net,Chennai,Notebook,Stationery,5,120,20,24.0,480.0,Net Banking,Completed
+ORD-0010,2026-02-18,Ekta Bhalla,azadmutti@example.com,Hyderabad,Mouse,Electronics,1,499,15,74.85,424.15,Debit Card,Completed
+ORD-0011,2025-09-07,Siddharth Murty,xalakrandhawa@example.net,Ludhiana,Desk Chair,Furniture,1,8500,5,425.0,8075.0,Cash,Completed
+ORD-0012,2025-11-21,Alka Dewan,adyasangha@example.net,Hyderabad,Keyboard,Electronics,3,999,0,0.0,2997.0,Debit Card,Completed
+ORD-0013,2025-10-29,Theodore Devi,wchand@example.org,Hyderabad,Keyboard,Electronics,5,999,15,149.85,4245.75,Credit Card,Returned
+ORD-0014,2026-04-26,Michael Dutta,ybhatt@example.com,Hyderabad,Monitor,Electronics,3,18000,15,2700.0,45900.0,Debit Card,Completed
+ORD-0015,2026-01-13,Zayan Apte,yadavamara@example.net,Chennai,Desk Chair,Furniture,1,8500,20,1700.0,6800.0,Cash,Completed
+ORD-0016,2025-10-06,Chaaya Saran,sudikshaaggarwal@example.net,Chennai,Mouse,Electronics,2,499,10,49.9,898.2,Credit Card,Returned
+ORD-0017,2026-05-02,Xiti Gokhale,misrayashica@example.net,Ludhiana,Monitor,Electronics,4,18000,0,0.0,72000.0,Credit Card,Completed
+ORD-0018,2025-08-12,Kashvi Edwin,naikvrinda@example.org,Kolkata,Notebook,Stationery,5,120,5,6.0,570.0,Debit Card,Completed
+ORD-0019,2025-07-09,Damyanti Khatri,khoslafarhan@example.org,MUMBAI,Keyboard,Electronics,5,999,5,49.95,4745.25,UPI,Completed
+ORD-0020,2026-03-07,Ekapad Walia,kabirsoman@example.net,Kolkata,Keyboard,Electronics,2,999,20,199.8,1598.4,Net Banking,Completed
+ORD-0021,2025-07-30,Pallavi Kakar,devikarastogi@example.net,Pune,Monitor,Electronics,4,18000,10,1800.0,64800.0,Net Banking,Completed
+ORD-0022,2026-02-03,Raksha Varughese,pdara@example.org,Ludhiana,Laptop,Electronics,1,55000,15,8250.0,46750.0,Debit Card,Completed
+ORD-0023,2025-06-20,Ansh Karpe,abhimanyubobal@example.net,Pune,Notebook,Stationery,4,120,0,0.0,480.0,UPI,Completed
+ORD-0024,2026-01-27,Veer Bir,narayananekavir@example.net,Ludhiana,Keyboard,Electronics,5,999,0,0.0,4995.0,Net Banking,Pending
+ORD-0025,2025-08-27,Vedika Kala,urvashikibe@example.com,Bangalore,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Net Banking,Pending
+ORD-0026,2026-04-05,Ranveer Chandra,sankarirya@example.com,Pune,Laptop,Electronics,5,55000,0,0.0,275000.0,UPI,Completed
+ORD-0027,2025-11-02,Chatura Chaudhari,rauharinakshi@example.org,Delhi,Pen Set,Stationery,3,250,0,0.0,750.0,Credit Card,Pending
+ORD-0028,2025-08-31,Ranveer Yadav,bdey@example.org,Pune,Mouse,Electronics,1,499,15,74.85,424.15,UPI,Pending
+ORD-0029,2025-09-12,Zaid Borra,dchaudhari@example.net,Pune,Keyboard,Electronics,2,999,15,149.85,1698.3,Net Banking,Completed
+ORD-0030,2025-12-22,Girik Khalsa,niharikasunder@example.com,Kolkata,Notebook,Stationery,5,120,20,24.0,480.0,Credit Card,Pending
+ORD-0031,2099-01-01,Daniel Gala,yagate@example.com,Chennai,Desk Chair,Furniture,3,8500,5,425.0,24225.0,Cash,Pending
+ORD-0032,2026-05-21,Bhavika Sampath,mdubey@example.com,Hyderabad,Headphones,Electronics,1,2999,0,0.0,2999.0,UPI,Completed
+ORD-0033,2025-08-19,Darsh Murthy,bedivansha@example.net,Hyderabad,Laptop,Electronics,5,55000,10,5500.0,247500.0,Net Banking,Completed
+ORD-0034,2026-05-19,Dakshesh Trivedi,grewalekapad@example.net,Delhi,Laptop,Electronics,1,55000,15,8250.0,46750.0,Credit Card,Completed
+ORD-0035,2025-06-22,Netra Dar,balveerbumb@example.com,Hyderabad,Laptop,Electronics,3,55000,0,0.0,165000.0,Debit Card,Returned
+ORD-0036,2026-02-06,Advika Jayaraman,william46@example.org,Pune,Desk Chair,Furniture,5,8500,0,0.0,42500.0,Credit Card,Returned
+ORD-0037,2026-02-11,Tanvi Mutti,andratara@example.net,MUMBAI,Monitor,Electronics,2,18000,0,0.0,36000.0,Cash,Completed
+ORD-0038,2025-12-31,Ethan Yogi,yashawinilanka@example.org,Delhi,Monitor,Electronics,4,18000,5,900.0,68400.0,UPI,Completed
+ORD-0039,2026-05-24,Ekapad Konda,bhavani27@example.net,Mumbai,Monitor,Electronics,3,18000,20,3600.0,43200.0,Credit Card,Completed
+ORD-0040,2026-02-24,Abhiram Mistry,desaiaishani@example.org,BANGALORE,Desk Chair,Furniture,5,8500,5,425.0,40375.0,Cash,Completed
+ORD-0041,2026-05-07,Nachiket Magar,shivansh53@example.net,Mumbai,Notebook,Stationery,4,120,0,0.0,480.0,Cash,Pending
+ORD-0042,2026-01-28,Yashasvi Suresh,charan16@example.com,Delhi,Mouse,Electronics,1,499,15,74.85,424.15,UPI,Completed
+ORD-0043,2025-06-13,Gauri De,neel78@example.net,Pune,Keyboard,Electronics,4,999,5,49.95,3796.2,Credit Card,Returned
+ORD-0044,2025-11-09,Isaac Borra,balendrapingle@example.net,Delhi,Laptop,Electronics,2,55000,5,2750.0,104500.0,Cash,Completed
+ORD-0045,2025-12-27,Qushi Datta,morarjanya@example.org,Pune,Headphones,Electronics,3,2999,5,149.95,8547.15,Credit Card,Completed
+ORD-0046,2026-05-11,Shivansh Krish,pandyaniharika@example.net,Delhi,Notebook,Stationery,2,120,0,0.0,240.0,Debit Card,Completed
+ORD-0047,2026-03-14,Warjas Gaba,nitarabakshi@example.org,Bangalore,Laptop,Electronics,5,55000,5,2750.0,261250.0,UPI,Pending
+ORD-0048,2026-03-09,Nisha Kothari,nathaniel16@example.org,Mumbai,Mouse,Electronics,2,499,0,0.0,998.0,Credit Card,Returned
+ORD-0049,2026-04-25,Tristan Iyengar,tpalla@example.org,Delhi,Mouse,Electronics,5,-999,0,0.0,2495.0,Net Banking,Completed
+ORD-0050,2025-08-21,Reyansh Rastogi,arya14@example.com,Chennai,Monitor,Electronics,5,18000,10,1800.0,81000.0,Debit Card,Completed
+ORD-0051,2026-01-31,Garima Bala,lalpranav@example.net,Kolkata,Pen Set,Stationery,2,250,0,0.0,500.0,Credit Card,Completed
+ORD-0052,2025-09-07,Ikbal Saraf,dipta69@example.net,MUMBAI,Headphones,Electronics,3,2999,20,599.8,7197.6,UPI,Returned
+ORD-0053,2025-07-10,Ranveer Kumar,sarinaarav@example.net,Hyderabad,Mouse,Electronics,1,499,10,49.9,449.1,Net Banking,Completed
+ORD-0054,2026-05-21,Januja Sankar,narayanandipta@example.net,HYDERABAD,Keyboard,Electronics,3,999,0,0.0,2997.0,Debit Card,Completed
+ORD-0055,2026-04-21,Charita Tripathi,nilima56@example.net,Ludhiana,Keyboard,Electronics,4,999,20,199.8,3196.8,Net Banking,Pending
+ORD-0056,2025-09-18,Rehaan Salvi,nghosh@example.net,Mumbai,Laptop,Electronics,5,55000,0,0.0,275000.0,Credit Card,Completed
+ORD-0057,2025-09-20,Aadi Modi,shivansh69@example.net,BANGALORE,Mouse,Electronics,1,499,15,74.85,424.15,Debit Card,Completed
+ORD-0058,2026-02-05,Udyati Sathe,gkala@example.com,Ludhiana,Desk Chair,Furniture,3,8500,0,0.0,25500.0,Net Banking,Returned
+ORD-0059,2026-03-31,Frado Mander,girik34@example.org,Kolkata,Notebook,Stationery,1,120,0,0.0,120.0,Debit Card,Completed
+ORD-0060,2026-04-05,Manan Bakshi,kondavaishnavi@example.net,Bangalore,Laptop,Electronics,3,55000,20,11000.0,132000.0,Debit Card,Completed
+ORD-0061,2026-04-22,Tamanna Sachdeva,leenatalwar@example.com,Kolkata,Headphones,Electronics,5,2999,15,449.85,12745.75,Net Banking,Completed
+ORD-0062,2025-08-29,Abdul Chhabra,lkanda@example.net,BANGALORE,Mouse,Electronics,1,499,15,74.85,424.15,Net Banking,Completed
+ORD-0063,2025-12-14,Chandresh Krish,shankiaan@example.com,BANGALORE,Pen Set,Stationery,5,250,10,25.0,1125.0,Cash,Completed
+ORD-0064,2026-02-10,Saanvi Thaman,ksehgal@example.net,Delhi,Laptop,Electronics,3,55000,0,0.0,165000.0,Debit Card,Completed
+ORD-0065,2099-01-01,Shivani Lad,aradhanaverma@example.com,KOLKATA,Desk Chair,Furniture,1,8500,0,0.0,8500.0,Net Banking,Completed
+ORD-0066,2026-01-25,Anvi Sarraf,mangalwahab@example.com,Bangalore,Desk Chair,Furniture,2,8500,20,1700.0,13600.0,Cash,Completed
+ORD-0067,2025-10-04,Faris Devi,vihaanrajagopal@example.net,Kolkata,Keyboard,Electronics,3,999,20,199.8,2397.6,Credit Card,Completed
+ORD-0068,2025-07-25,Devansh Sachdeva,inarayanan@example.com,Delhi,Keyboard,Electronics,1,999,5,49.95,949.05,Cash,Completed
+ORD-0069,2025-11-04,Samuel Salvi,wbahri@example.net,LUDHIANA,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Credit Card,Completed
+ORD-0070,2025-10-21,Abeer Pandey,madhavi68@example.net,Chennai,Laptop,Electronics,2,-999,5,2750.0,104500.0,Debit Card,Completed
+ORD-0071,2026-03-08,Vinaya Kanda,rajata70@example.com,Kolkata,Notebook,Stationery,3,120,15,18.0,306.0,Net Banking,Completed
+ORD-0072,2025-10-04,Noah Sibal,aviramesh@example.net,Bangalore,Laptop,Electronics,1,55000,0,0.0,55000.0,Net Banking,Completed
+ORD-0073,2026-01-01,Fiyaz Sangha,triyagopal@example.org,Kolkata,Laptop,Electronics,1,55000,10,5500.0,49500.0,Debit Card,Completed
+ORD-0074,2025-09-05,Falak Kakar,vnarain@example.com,Mumbai,Monitor,Electronics,5,18000,10,1800.0,81000.0,Cash,Pending
+ORD-0075,2025-09-12,Zayyan Bumb,vbahl@example.net,Kolkata,Desk Chair,Furniture,3,8500,0,0.0,25500.0,UPI,Pending
+ORD-0076,2025-06-16,Udarsh Biswas,balasubramanianyug@example.org,MUMBAI,Desk Chair,Furniture,3,8500,5,425.0,24225.0,Debit Card,Pending
+ORD-0077,2026-04-17,Michael Khare,urvashicontractor@example.net,Ludhiana,Pen Set,Stationery,1,250,15,37.5,212.5,Net Banking,Completed
+ORD-0078,2025-08-19,Aahana Pillay,ishwargade@example.com,Ludhiana,Monitor,Electronics,3,18000,5,900.0,51300.0,Net Banking,Completed
+ORD-0079,2025-07-07,Devika Prashad,eissac@example.net,Kolkata,Desk Chair,Furniture,4,8500,15,1275.0,28900.0,Credit Card,Pending
+ORD-0080,2026-02-19,Harsh Mitra,barmanidika@example.net,Delhi,Notebook,Stationery,4,120,10,12.0,432.0,Debit Card,Completed
+ORD-0081,2025-11-09,Ekapad Toor,advik67@example.org,Chennai,Desk Chair,Furniture,4,8500,20,1700.0,27200.0,Cash,Returned
+ORD-0082,2025-11-11,Tripti Dua,ugoda@example.net,Pune,Headphones,Electronics,2,2999,10,299.9,5398.2,Credit Card,Completed
+ORD-0083,2026-02-03,Veda Shroff,uloyal@example.org,Chennai,Notebook,Stationery,5,120,15,18.0,510.0,UPI,Completed
+ORD-0084,2026-04-14,Arya Seshadri,ucchalraghavan@example.com,Hyderabad,Notebook,Stationery,2,120,20,24.0,192.0,Credit Card,Completed
+ORD-0085,2025-06-07,Ekta Gopal,wkala@example.com,Mumbai,Laptop,Electronics,2,55000,5,2750.0,104500.0,Cash,Returned
+ORD-0086,2025-10-06,Anya Anne,frederickkhurana@example.net,KOLKATA,Desk Chair,Furniture,4,8500,5,425.0,32300.0,Credit Card,Completed
+ORD-0087,2025-10-31,Wridesh Soni,,Kolkata,Laptop,Electronics,1,55000,20,11000.0,44000.0,Credit Card,Completed
+ORD-0088,2025-07-02,Timothy Ravel,daminipillay@example.com,Hyderabad,Headphones,Electronics,1,2999,10,299.9,2699.1,UPI,Returned
+ORD-0089,2025-12-27,Pavani Narayanan,sudiksha44@example.com,Chennai,Keyboard,Electronics,4,999,15,149.85,3396.6,Cash,Pending
+ORD-0090,2025-08-24,Reyansh Mutti,wasonqasim@example.org,Bangalore,Monitor,Electronics,5,18000,5,900.0,85500.0,Cash,Returned
+ORD-0091,2025-08-19,Aradhana Vohra,harish34@example.org,Ludhiana,Notebook,Stationery,2,120,20,24.0,192.0,Net Banking,Returned
+ORD-0092,2025-10-14,Chasmum Atwal,anushabath@example.org,Mumbai,Desk Chair,Furniture,3,8500,5,425.0,24225.0,Debit Card,Completed
+ORD-0093,2025-12-27,Jonathan Swaminathan,arorabhavani@example.com,Mumbai,Notebook,Stationery,3,120,0,0.0,360.0,Credit Card,Completed
+ORD-0094,2025-11-28,Harini Gour,krishnanvanya@example.org,Bangalore,Desk Chair,Furniture,4,8500,15,1275.0,28900.0,Credit Card,Completed
+ORD-0095,2026-04-11,Nandini Swamy,beramax@example.org,Pune,Monitor,Electronics,4,18000,0,0.0,72000.0,Cash,Completed
+ORD-0096,2026-04-07,Frederick Kothari,sahaupkaar@example.net,Delhi,Desk Chair,Furniture,4,8500,5,425.0,32300.0,Net Banking,Returned
+ORD-0097,2025-10-21,Saanvi Mishra,kmody@example.net,Ludhiana,Headphones,Electronics,1,2999,0,0.0,2999.0,Cash,Returned
+ORD-0098,2025-06-19,Sarthak Kakar,finn23@example.org,Ludhiana,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Cash,Returned
+ORD-0099,2025-12-27,Naksh Agate,sseshadri@example.net,Kolkata,Laptop,Electronics,4,55000,0,0.0,220000.0,Credit Card,Returned
+ORD-0100,2025-11-25,Bachittar Kata,barkha71@example.net,Delhi,Keyboard,Electronics,5,999,10,99.9,4495.5,Cash,Pending
+ORD-0101,2025-08-25,Rudra Sandal,karmanthan@example.com,Kolkata,Laptop,Electronics,1,55000,15,8250.0,46750.0,Credit Card,Returned
+ORD-0102,2026-04-13,Ekbal Bhasin,damyantimani@example.com,Kolkata,Keyboard,Electronics,1,999,0,0.0,999.0,Debit Card,Completed
+ORD-0103,2025-07-14,Daksha Rau,xiti87@example.com,Kolkata,Headphones,Electronics,3,2999,0,0.0,8997.0,Debit Card,Returned
+ORD-0104,2025-06-27,Rachana Naidu,atharv13@example.net,Delhi,Notebook,Stationery,1,120,5,6.0,114.0,Net Banking,Completed
+ORD-0105,2026-04-16,Amruta Baria,upmavenkataraman@example.net,Mumbai,Pen Set,Stationery,2,250,15,37.5,425.0,UPI,Completed
+ORD-0106,2025-11-14,Pratyush Sarin,echand@example.com,Delhi,Desk Chair,Furniture,2,8500,20,1700.0,13600.0,Net Banking,Completed
+ORD-0107,2025-11-01,Ekani Cheema,forumsabharwal@example.net,Mumbai,Desk Chair,Furniture,2,8500,5,425.0,16150.0,Net Banking,Completed
+ORD-0108,2025-12-05,Nandini Bansal,uchakrabarti@example.com,Chennai,Headphones,Electronics,3,2999,20,599.8,7197.6,Credit Card,Pending
+ORD-0109,2025-09-29,Netra Varkey,shereodika@example.org,Mumbai,Mouse,Electronics,2,499,0,0.0,998.0,Net Banking,Completed
+ORD-0110,2025-08-07,Wishi Sathe,janiamara@example.net,Kolkata,Notebook,Stationery,5,120,15,18.0,510.0,Cash,Completed
+ORD-0111,2025-07-16,Raksha Sundaram,balakrishnanwriddhish@example.net,HYDERABAD,Mouse,Electronics,5,499,15,74.85,2120.75,UPI,Completed
+ORD-0112,2025-07-27,Akshay Reddy,karishaan@example.com,Delhi,Mouse,Electronics,5,499,20,99.8,1996.0,Debit Card,Pending
+ORD-0113,2025-07-11,Wishi Manne,ojasvi77@example.org,Chennai,Monitor,Electronics,3,18000,0,0.0,54000.0,UPI,Returned
+ORD-0114,2025-11-20,Leela Halder,ekarajmajumdar@example.com,Chennai,Headphones,Electronics,1,2999,5,149.95,2849.05,Cash,Completed
+ORD-0115,2025-10-05,Aarnav Mandal,vrishti27@example.net,Ludhiana,Monitor,Electronics,2,18000,15,2700.0,30600.0,Net Banking,Pending
+ORD-0116,2025-12-01,Gaurangi Purohit,mnagy@example.net,Ludhiana,Headphones,Electronics,4,2999,5,149.95,11396.2,Debit Card,Completed
+ORD-0117,2025-08-27,Vivaan Roy,nadkarniurvashi@example.net,Hyderabad,Mouse,Electronics,3,499,5,24.95,1422.15,Cash,Pending
+ORD-0118,2026-05-16,Libni Doshi,ibansal@example.net,Pune,Monitor,Electronics,3,18000,0,0.0,54000.0,Debit Card,Completed
+ORD-0119,2026-01-11,Harish Sarraf,voratanmayi@example.org,Ludhiana,Headphones,Electronics,2,2999,0,0.0,5998.0,Debit Card,Completed
+ORD-0120,2026-03-03,Nimrat Dubey,singhalka@example.com,Hyderabad,Notebook,Stationery,5,120,0,0.0,600.0,UPI,Completed
+ORD-0121,2026-01-24,Faris Narasimhan,onadig@example.net,Hyderabad,Monitor,Electronics,4,18000,10,1800.0,64800.0,Cash,Returned
+ORD-0122,2026-05-06,Balendra Biswas,bhavnakaran@example.net,Ludhiana,Headphones,Electronics,1,2999,0,0.0,2999.0,Credit Card,Returned
+ORD-0123,2025-07-01,Guneet Chaudhry,sganesan@example.com,Chennai,Desk Chair,Furniture,3,8500,15,1275.0,21675.0,Cash,Pending
+ORD-0124,2026-05-12,Chakradhar Nair,memonjagrati@example.com,Chennai,Pen Set,Stationery,4,250,15,37.5,850.0,Debit Card,Returned
+ORD-0125,2025-11-10,Yash Wali,kgole@example.org,HYDERABAD,Notebook,Stationery,3,120,0,0.0,360.0,UPI,Completed
+ORD-0126,2025-06-26,Wridesh Tank,vincentshenoy@example.net,Bangalore,Pen Set,Stationery,1,250,15,37.5,212.5,Credit Card,Completed
+ORD-0127,2025-09-02,Aadhya Andra,rmani@example.net,LUDHIANA,Headphones,Electronics,3,2999,15,449.85,7647.45,UPI,Completed
+ORD-0128,2025-07-27,Riya Pai,panini47@example.com,Bangalore,Notebook,Stationery,2,120,0,0.0,240.0,Debit Card,Completed
+ORD-0129,2025-08-12,Vasudha Chhabra,lakshmiparmer@example.net,Delhi,Keyboard,Electronics,3,999,0,0.0,2997.0,Net Banking,Completed
+ORD-0130,2025-09-18,Anthony Randhawa,abhiram90@example.net,Delhi,Keyboard,Electronics,4,999,0,0.0,3996.0,Net Banking,Completed
+ORD-0131,2026-03-12,Bhavini Karpe,theodore39@example.com,Chennai,Headphones,Electronics,4,2999,5,149.95,11396.2,Credit Card,Completed
+ORD-0132,2026-02-14,Gunbir Baral,ridhi09@example.com,Mumbai,Notebook,Stationery,4,120,0,0.0,480.0,Cash,Returned
+ORD-0133,2026-03-07,Gautam Merchant,ojasvi23@example.org,Delhi,Mouse,Electronics,5,499,15,74.85,2120.75,Credit Card,Completed
+ORD-0134,2026-03-28,Yachana Mahajan,aarinisubramaniam@example.com,Mumbai,Notebook,Stationery,1,120,0,0.0,120.0,Net Banking,Returned
+ORD-0135,2026-03-12,Ishwar Sidhu,dhaliwalupkaar@example.net,Pune,Desk Chair,Furniture,5,8500,5,425.0,40375.0,Cash,Completed
+ORD-0136,2026-03-04,Jasmit Chana,qatwal@example.net,Delhi,Monitor,Electronics,3,18000,10,1800.0,48600.0,Net Banking,Completed
+ORD-0137,2025-07-13,Jyoti Lala,,MUMBAI,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Credit Card,Completed
+ORD-0138,2025-08-25,Aryan Narang,devshetty@example.net,Bangalore,Keyboard,Electronics,5,999,0,0.0,4995.0,UPI,Returned
+ORD-0139,2025-09-21,Jackson Dey,baraddaksha@example.com,LUDHIANA,Headphones,Electronics,5,2999,5,149.95,14245.25,UPI,Completed
+ORD-0140,2025-07-11,Wahab Yogi,lipikasetty@example.com,Pune,Notebook,Stationery,3,120,15,18.0,306.0,UPI,Completed
+ORD-0141,2026-02-11,Mohammed Sachdeva,surinikita@example.com,Hyderabad,Notebook,Stationery,5,120,15,18.0,510.0,Cash,Completed
+ORD-0142,2099-01-01,Teerth Sawhney,xkeer@example.org,Bangalore,Desk Chair,Furniture,2,8500,0,0.0,17000.0,UPI,Completed
+ORD-0143,2026-02-17,Jagrati Bhat,mmajumdar@example.org,Ludhiana,Keyboard,Electronics,3,999,10,99.9,2697.3,Cash,Completed
+ORD-0144,2026-04-21,Gavin Kala,,Kolkata,Headphones,Electronics,3,2999,15,449.85,7647.45,Debit Card,Pending
+ORD-0145,2025-07-14,Ekapad Johal,virajnarasimhan@example.org,Delhi,Headphones,Electronics,4,2999,0,0.0,11996.0,Cash,Completed
+ORD-0146,2026-03-29,Aradhana Dhillon,zashilghosh@example.org,Hyderabad,Notebook,Stationery,1,120,0,0.0,120.0,Net Banking,Pending
+ORD-0147,2026-02-07,Karan Aurora,wazir95@example.org,Delhi,Laptop,Electronics,3,55000,10,5500.0,148500.0,Credit Card,Returned
+ORD-0148,2025-08-02,Charles Date,hvora@example.net,Kolkata,Headphones,Electronics,3,2999,0,0.0,8997.0,Cash,Completed
+ORD-0149,2025-06-20,Saumya Pathak,,Chennai,Headphones,Electronics,3,2999,5,149.95,8547.15,Debit Card,Completed
+ORD-0150,2026-01-20,Charvi Shanker,,Pune,Keyboard,Electronics,3,999,5,49.95,2847.15,Debit Card,Returned
+ORD-0151,2025-11-08,Vritti Sawhney,buchekanta@example.net,Chennai,Laptop,Electronics,4,55000,0,0.0,220000.0,Debit Card,Completed
+ORD-0152,2025-07-23,Jonathan Maharaj,lakshmi98@example.com,DELHI,Mouse,Electronics,4,499,20,99.8,1596.8,Net Banking,Returned
+ORD-0153,2025-11-19,Hardik Contractor,qushiseth@example.org,CHENNAI,Monitor,Electronics,1,18000,0,0.0,18000.0,Net Banking,Returned
+ORD-0154,2025-11-03,Sudiksha Rastogi,uchandran@example.com,Ludhiana,Headphones,Electronics,1,2999,0,0.0,2999.0,Net Banking,Completed
+ORD-0155,2025-09-25,Kavya Dua,fbhavsar@example.org,Pune,Notebook,Stationery,4,120,15,18.0,408.0,UPI,Completed
+ORD-0156,2025-07-02,Gopal Pradhan,darpannarayan@example.net,Delhi,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Net Banking,Returned
+ORD-0157,2025-07-13,Irya Sampath,manidevika@example.com,Mumbai,Mouse,Electronics,2,499,20,99.8,798.4,Cash,Completed
+ORD-0158,2025-07-06,Mohammed Subramaniam,hritikpalla@example.net,Ludhiana,Keyboard,Electronics,4,999,15,149.85,3396.6,Net Banking,Completed
+ORD-0159,2025-10-16,Arya Kara,mbal@example.net,Hyderabad,Monitor,Electronics,4,18000,5,900.0,68400.0,Cash,Pending
+ORD-0160,2026-04-14,Ayush Gole,dayamai55@example.org,Bangalore,Keyboard,Electronics,4,999,0,0.0,3996.0,UPI,Completed
+ORD-0161,2025-08-05,Nandini Boase,azaanchand@example.net,Ludhiana,Monitor,Electronics,3,18000,20,3600.0,43200.0,UPI,Completed
+ORD-0162,2025-12-19,Krisha Saini,kom@example.com,Pune,Notebook,Stationery,5,120,10,12.0,540.0,Credit Card,Returned
+ORD-0163,2025-09-25,Frado Ben,nakulbawa@example.net,Kolkata,Headphones,Electronics,3,2999,0,0.0,8997.0,Cash,Completed
+ORD-0164,2025-06-27,Saanvi Samra,asathe@example.com,Kolkata,Desk Chair,Furniture,2,8500,10,850.0,15300.0,Credit Card,Returned
+ORD-0165,2025-08-18,Hemani Sani,mandervidhi@example.net,Pune,Laptop,Electronics,3,55000,15,8250.0,140250.0,Cash,Returned
+ORD-0166,2026-02-10,Chakradev Kannan,,Bangalore,Keyboard,Electronics,4,999,0,0.0,3996.0,Net Banking,Pending
+ORD-0167,2025-09-21,Laksh Kumer,falak10@example.com,Pune,Pen Set,Stationery,1,250,20,50.0,200.0,UPI,Pending
+ORD-0168,2026-03-13,Parth Dayal,twalia@example.org,Bangalore,Headphones,Electronics,1,2999,15,449.85,2549.15,Cash,Completed
+ORD-0169,2025-12-07,Ekbal Ranganathan,sarinanirudh@example.com,Ludhiana,Mouse,Electronics,4,499,20,99.8,1596.8,Debit Card,Pending
+ORD-0170,2026-05-19,Dhriti Sanghvi,ssahni@example.org,CHENNAI,Monitor,Electronics,1,18000,20,3600.0,14400.0,Net Banking,Returned
+ORD-0171,2025-10-31,Ekta Garg,fpathak@example.com,Delhi,Pen Set,Stationery,4,250,20,50.0,800.0,Net Banking,Completed
+ORD-0172,2026-04-19,Yagnesh Sarin,fviswanathan@example.com,Mumbai,Desk Chair,Furniture,3,8500,0,0.0,25500.0,Cash,Completed
+ORD-0173,2026-04-30,Harinakshi Kant,om18@example.net,Ludhiana,Mouse,Electronics,4,499,0,0.0,1996.0,UPI,Completed
+ORD-0174,2025-07-10,Ikshita Panchal,warinderchauhan@example.org,CHENNAI,Pen Set,Stationery,1,250,0,0.0,250.0,Debit Card,Returned
+ORD-0175,2025-09-03,Oscar Dua,goelwakeeta@example.com,Kolkata,Keyboard,Electronics,2,999,10,99.9,1798.2,Net Banking,Completed
+ORD-0176,2026-03-15,Ekantika Mutti,riabir@example.com,KOLKATA,Keyboard,Electronics,2,999,0,0.0,1998.0,Net Banking,Completed
+ORD-0177,2025-11-14,Anvi Bhalla,yashica14@example.com,Hyderabad,Headphones,Electronics,5,2999,0,0.0,14995.0,Cash,Completed
+ORD-0178,2025-11-18,Dakshesh Pillay,faraj19@example.net,Delhi,Headphones,Electronics,3,2999,15,449.85,7647.45,Cash,Completed
+ORD-0179,2025-12-09,Turvi Barman,uguha@example.net,Chennai,Keyboard,Electronics,1,999,5,49.95,949.05,Net Banking,Completed
+ORD-0180,2025-11-27,David Seshadri,,Ludhiana,Monitor,Electronics,3,18000,5,900.0,51300.0,Credit Card,Returned
+ORD-0181,2026-02-01,Balveer Kota,hsarna@example.net,Kolkata,Headphones,Electronics,1,2999,0,0.0,2999.0,Net Banking,Completed
+ORD-0182,2026-01-18,Januja Pradhan,lila65@example.net,Kolkata,Notebook,Stationery,3,120,0,0.0,360.0,Debit Card,Completed
+ORD-0183,2026-01-14,Gaurika Bhatti,girindra86@example.com,Pune,Laptop,Electronics,5,55000,15,8250.0,233750.0,Debit Card,Completed
+ORD-0184,2025-09-01,Gauri Bumb,inayamukherjee@example.net,Hyderabad,Pen Set,Stationery,2,250,15,37.5,425.0,Net Banking,Completed
+ORD-0185,2026-02-22,Kai Chad,krisha52@example.net,Delhi,Keyboard,Electronics,1,999,15,149.85,849.15,Debit Card,Returned
+ORD-0186,2026-02-23,Pallavi Trivedi,andrew54@example.org,Bangalore,Laptop,Electronics,5,55000,0,0.0,275000.0,UPI,Completed
+ORD-0187,2025-08-18,Vedika Handa,lakshdubey@example.org,Hyderabad,Pen Set,Stationery,4,250,0,0.0,1000.0,Credit Card,Pending
+ORD-0188,2025-09-18,Yashica Zacharia,nayarkaran@example.net,Ludhiana,Pen Set,Stationery,5,250,10,25.0,1125.0,Credit Card,Completed
+ORD-0189,2025-10-20,Nicholas Golla,rakshabassi@example.com,Chennai,Headphones,Electronics,3,2999,15,449.85,7647.45,UPI,Returned
+ORD-0190,2025-10-15,Sachi Mane,ikaur@example.org,Hyderabad,Mouse,Electronics,2,499,20,99.8,798.4,Cash,Pending
+ORD-0191,2025-09-24,Rishi Pillai,xshenoy@example.com,Kolkata,Pen Set,Stationery,1,250,20,50.0,200.0,UPI,Completed
+ORD-0192,2026-03-25,Yadavi Wable,medwin@example.net,Ludhiana,Mouse,Electronics,4,499,0,0.0,1996.0,Net Banking,Returned
+ORD-0193,2025-07-19,Charles Srivastava,harshil81@example.com,Hyderabad,Pen Set,Stationery,1,250,15,37.5,212.5,Cash,Completed
+ORD-0194,2025-06-28,Anjali Sengupta,rajeshrichand@example.org,Mumbai,Pen Set,Stationery,5,250,0,0.0,1250.0,Cash,Completed
+ORD-0195,2026-04-09,Ikshita Bala,zbera@example.net,Delhi,Monitor,Electronics,1,18000,0,0.0,18000.0,UPI,Completed
+ORD-0196,2025-10-19,Libni Bumb,udarsh05@example.org,HYDERABAD,Headphones,Electronics,1,2999,0,0.0,2999.0,Net Banking,Completed
+ORD-0197,2026-04-17,Madhav Devan,mangaturmi@example.net,Kolkata,Monitor,Electronics,4,18000,0,0.0,72000.0,Net Banking,Completed
+ORD-0198,2026-04-14,Upasna Sen,buchanirudh@example.com,Pune,Monitor,Electronics,1,18000,20,3600.0,14400.0,Net Banking,Returned
+ORD-0199,2025-08-18,Pallavi Choudhry,wazir41@example.org,Chennai,Notebook,Stationery,1,120,15,18.0,102.0,Credit Card,Returned
+ORD-0200,2025-08-27,Tanvi Bhatnagar,tataamol@example.net,Chennai,Headphones,Electronics,2,2999,20,599.8,4798.4,UPI,Completed
+ORD-0201,2025-12-13,Maanas Manne,nagarwal@example.com,Ludhiana,Pen Set,Stationery,1,250,5,12.5,237.5,Credit Card,Completed
+ORD-0202,2025-08-28,Rachit Chada,ekansh88@example.net,Hyderabad,Headphones,Electronics,1,2999,15,449.85,2549.15,Net Banking,Completed
+ORD-0203,2026-03-28,Madhavi Singhal,ramkashvi@example.com,Bangalore,Laptop,Electronics,3,55000,0,0.0,165000.0,Net Banking,Completed
+ORD-0204,2026-03-13,Ishanvi Bir,wridesh19@example.net,Hyderabad,Mouse,Electronics,5,499,0,0.0,2495.0,Credit Card,Completed
+ORD-0205,2026-03-16,Kiaan Basu,hamsini27@example.net,LUDHIANA,Keyboard,Electronics,5,999,0,0.0,4995.0,Credit Card,Completed
+ORD-0206,2025-11-28,Krishna Bhatnagar,sbansal@example.org,Delhi,Notebook,Stationery,2,120,0,0.0,240.0,Credit Card,Completed
+ORD-0207,2025-06-13,Benjamin Mutti,yutika68@example.com,CHENNAI,Pen Set,Stationery,2,250,10,25.0,450.0,UPI,Completed
+ORD-0208,2025-09-02,Rayaan Mangal,champak54@example.org,KOLKATA,Notebook,Stationery,1,120,0,0.0,120.0,Net Banking,Completed
+ORD-0209,2026-04-02,Rajeshri Ratta,vraju@example.org,Chennai,Mouse,Electronics,4,499,5,24.95,1896.2,Net Banking,Pending
+ORD-0210,2025-12-05,Jhalak Venkataraman,fitan61@example.com,Hyderabad,Mouse,Electronics,4,499,10,49.9,1796.4,Net Banking,Completed
+ORD-0211,2026-01-15,Chaaya Nagi,buchfalak@example.net,Delhi,Notebook,Stationery,4,-999,15,18.0,408.0,UPI,Returned
+ORD-0212,2025-09-18,Sanaya Sandhu,sachipanchal@example.com,Mumbai,Monitor,Electronics,4,18000,15,2700.0,61200.0,Cash,Returned
+ORD-0213,2025-06-12,Radhika Maharaj,bordenidra@example.com,BANGALORE,Mouse,Electronics,1,499,0,0.0,499.0,UPI,Completed
+ORD-0214,2025-12-12,Azaan Dhar,ibanerjee@example.org,Chennai,Notebook,Stationery,5,120,15,18.0,510.0,Cash,Pending
+ORD-0215,2025-08-26,Janaki Rajagopal,dubeshivani@example.com,Kolkata,Notebook,Stationery,4,120,10,12.0,432.0,UPI,Completed
+ORD-0216,2025-10-18,Faraj Devan,mitali54@example.org,Hyderabad,Desk Chair,Furniture,4,8500,5,425.0,32300.0,Cash,Completed
+ORD-0217,2025-07-10,Quincy Tata,qdalal@example.com,Mumbai,Headphones,Electronics,4,2999,5,149.95,11396.2,Debit Card,Returned
+ORD-0218,2026-02-24,Tanish Mangal,hiyengar@example.org,Bangalore,Pen Set,Stationery,3,250,0,0.0,750.0,Cash,Completed
+ORD-0219,2026-04-23,Siya Gera,zchahal@example.net,Kolkata,Mouse,Electronics,1,499,0,0.0,499.0,UPI,Completed
+ORD-0220,2026-04-20,Idika Bhattacharyya,charita22@example.com,Chennai,Keyboard,Electronics,5,999,0,0.0,4995.0,UPI,Returned
+ORD-0221,2025-12-10,Jairaj Iyer,warjastak@example.org,Delhi,Pen Set,Stationery,4,250,20,50.0,800.0,Debit Card,Pending
+ORD-0222,2025-10-14,Unni Dayal,bhattidayamai@example.com,Hyderabad,Notebook,Stationery,3,120,0,0.0,360.0,Credit Card,Returned
+ORD-0223,2026-03-01,Nirja Rout,dassedhitha@example.net,Chennai,Desk Chair,Furniture,1,8500,0,0.0,8500.0,UPI,Completed
+ORD-0224,2025-06-24,Unnati Varughese,kabir89@example.org,Delhi,Desk Chair,Furniture,4,8500,20,1700.0,27200.0,Net Banking,Completed
+ORD-0225,2026-03-21,Rachita Thakkar,dashzarna@example.org,LUDHIANA,Laptop,Electronics,2,55000,0,0.0,110000.0,Debit Card,Completed
+ORD-0226,2025-09-22,Neel Naidu,hiralvenkataraman@example.com,Bangalore,Laptop,Electronics,2,55000,20,11000.0,88000.0,Net Banking,Returned
+ORD-0227,2026-04-20,Zashil Hegde,jeremiah49@example.net,Delhi,Mouse,Electronics,2,499,15,74.85,848.3,UPI,Pending
+ORD-0228,2025-07-02,Mitesh Garg,benjamin01@example.org,PUNE,Desk Chair,Furniture,4,8500,5,425.0,32300.0,Debit Card,Completed
+ORD-0229,2026-01-31,Shivansh Saha,tankbimala@example.net,Chennai,Pen Set,Stationery,3,250,15,37.5,637.5,Net Banking,Pending
+ORD-0230,2025-09-21,Yash Ravi,sudiksha10@example.org,Bangalore,Mouse,Electronics,1,499,0,0.0,499.0,Net Banking,Completed
+ORD-0231,2025-11-13,Veda Shetty,harinidhawan@example.com,Kolkata,Mouse,Electronics,3,499,5,24.95,1422.15,Cash,Pending
+ORD-0232,2026-04-26,Hemani Rastogi,kamalavarma@example.net,Hyderabad,Headphones,Electronics,4,2999,0,0.0,11996.0,Net Banking,Completed
+ORD-0233,2025-07-07,Wyatt Shukla,lokeshivani@example.org,Ludhiana,Pen Set,Stationery,4,250,0,0.0,1000.0,Net Banking,Returned
+ORD-0234,2025-07-20,Chandresh Mannan,psahota@example.org,KOLKATA,Notebook,Stationery,1,120,0,0.0,120.0,Net Banking,Completed
+ORD-0235,2026-04-07,Dhriti Gupta,wishivarma@example.com,Hyderabad,Laptop,Electronics,2,55000,0,0.0,110000.0,Credit Card,Completed
+ORD-0236,2025-12-06,Widisha Bajaj,ramaswamyyashasvi@example.com,Delhi,Notebook,Stationery,3,120,0,0.0,360.0,Cash,Returned
+ORD-0237,2025-08-28,Ira Bava,mandawarda@example.net,Hyderabad,Keyboard,Electronics,2,999,5,49.95,1898.1,Net Banking,Pending
+ORD-0238,2026-05-04,Bhavika Yadav,chokshiraagini@example.org,Delhi,Pen Set,Stationery,1,250,5,12.5,237.5,Cash,Completed
+ORD-0239,2026-05-04,Jasmit Rau,chakradev60@example.net,Chennai,Headphones,Electronics,1,2999,20,599.8,2399.2,Net Banking,Returned
+ORD-0240,2025-12-31,Janani Mani,rajuyamini@example.com,Mumbai,Monitor,Electronics,4,18000,0,0.0,72000.0,Cash,Completed
+ORD-0241,2026-03-19,Jagat Dave,rameshkashvi@example.com,Pune,Pen Set,Stationery,2,250,20,50.0,400.0,Debit Card,Completed
+ORD-0242,2025-12-29,Maanas Issac,ctella@example.org,Kolkata,Monitor,Electronics,1,18000,0,0.0,18000.0,Net Banking,Returned
+ORD-0243,2025-06-11,Gauri Som,mdixit@example.net,Ludhiana,Mouse,Electronics,4,499,20,99.8,1596.8,Debit Card,Completed
+ORD-0244,2025-07-20,Eiravati Gaba,lmistry@example.com,Mumbai,Pen Set,Stationery,2,250,0,0.0,500.0,Net Banking,Pending
+ORD-0245,2025-12-10,Chandani Soman,pillaygarima@example.net,Bangalore,Desk Chair,Furniture,3,8500,0,0.0,25500.0,Credit Card,Completed
+ORD-0246,2025-07-08,Darika Bala,planka@example.net,Bangalore,Keyboard,Electronics,3,999,0,0.0,2997.0,Net Banking,Completed
+ORD-0247,2026-01-06,Charan Srinivasan,lajitadivan@example.net,Pune,Mouse,Electronics,2,499,20,99.8,798.4,Cash,Pending
+ORD-0248,2025-08-29,Imaran Halder,sastrydipta@example.com,Chennai,Headphones,Electronics,5,2999,15,449.85,12745.75,Debit Card,Completed
+ORD-0249,2025-07-24,Samar Roy,tbhatia@example.org,Pune,Headphones,Electronics,1,2999,5,149.95,2849.05,Debit Card,Completed
+ORD-0250,2025-12-14,Ekta Sridhar,lmurthy@example.com,MUMBAI,Laptop,Electronics,3,55000,10,5500.0,148500.0,Debit Card,Returned
+ORD-0251,2026-05-16,Irya Lalla,phanda@example.com,Chennai,Headphones,Electronics,1,2999,0,0.0,2999.0,Debit Card,Completed
+ORD-0252,2025-12-29,Umang Mishra,sarthak75@example.com,Kolkata,Mouse,Electronics,5,499,10,49.9,2245.5,Cash,Pending
+ORD-0253,2025-10-09,Bhavna Dara,wrana@example.org,Hyderabad,Laptop,Electronics,4,55000,20,11000.0,176000.0,Debit Card,Pending
+ORD-0254,2025-09-16,Bhavna Brar,riya47@example.org,DELHI,Headphones,Electronics,5,2999,0,0.0,14995.0,Cash,Completed
+ORD-0255,2025-08-13,Anita Devan,khatrixavier@example.org,Bangalore,Pen Set,Stationery,1,250,10,25.0,225.0,UPI,Completed
+ORD-0256,2026-02-11,Viraj Ben,sachdevganga@example.net,Bangalore,Headphones,Electronics,4,2999,10,299.9,10796.4,Debit Card,Completed
+ORD-0257,2025-11-26,Laksh Ahluwalia,niharikasoni@example.com,Chennai,Notebook,Stationery,4,120,5,6.0,456.0,Net Banking,Completed
+ORD-0258,2026-02-03,Bhavna Nagi,daniel19@example.org,Mumbai,Pen Set,Stationery,1,250,0,0.0,250.0,Net Banking,Returned
+ORD-0259,2025-12-20,Parth Sahni,balhaarranganathan@example.com,Bangalore,Notebook,Stationery,3,120,15,18.0,306.0,Debit Card,Completed
+ORD-0260,2025-08-07,Baljiwan Andra,hredhaan54@example.com,Kolkata,Keyboard,Electronics,3,999,0,0.0,2997.0,Credit Card,Pending
+ORD-0261,2026-01-31,Krish Thaman,mmahajan@example.org,Kolkata,Mouse,Electronics,3,499,10,49.9,1347.3,Debit Card,Completed
+ORD-0262,2025-10-02,Tara Kurian,akshaynazareth@example.com,Chennai,Mouse,Electronics,4,499,10,49.9,1796.4,UPI,Completed
+ORD-0263,2026-01-02,Parth Ravi,uvarma@example.org,Chennai,Notebook,Stationery,2,120,0,0.0,240.0,Cash,Completed
+ORD-0264,2025-10-29,Qasim Dey,,Mumbai,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Debit Card,Completed
+ORD-0265,2025-09-05,Warinder Sekhon,forum49@example.net,Bangalore,Laptop,Electronics,3,55000,20,11000.0,132000.0,Net Banking,Returned
+ORD-0266,2026-01-04,Advika Parsa,daviddani@example.com,Bangalore,Keyboard,Electronics,2,999,0,0.0,1998.0,Cash,Completed
+ORD-0267,2025-09-23,Nidra Thakkar,jacob45@example.net,HYDERABAD,Monitor,Electronics,3,18000,15,2700.0,45900.0,Cash,Pending
+ORD-0268,2025-08-20,Kiaan Sridhar,suhaniprakash@example.com,Hyderabad,Notebook,Stationery,4,120,0,0.0,480.0,Debit Card,Returned
+ORD-0269,2026-02-23,Tejas Kota,vorasanya@example.net,Pune,Desk Chair,Furniture,3,8500,15,1275.0,21675.0,Cash,Completed
+ORD-0270,2026-02-24,Faras Choudhury,tiwarisamaksh@example.net,Kolkata,Monitor,Electronics,5,18000,10,1800.0,81000.0,Credit Card,Completed
+ORD-0271,2025-12-21,Nitesh Narang,rdada@example.org,Pune,Keyboard,Electronics,3,999,0,0.0,2997.0,Debit Card,Pending
+ORD-0272,2026-03-01,Gavin Uppal,dbhakta@example.org,Mumbai,Mouse,Electronics,5,499,20,99.8,1996.0,Debit Card,Completed
+ORD-0273,2025-12-12,Tanmayi Bhardwaj,,Bangalore,Keyboard,Electronics,3,999,5,49.95,2847.15,Cash,Completed
+ORD-0274,2025-10-27,Aarush Kamdar,bathpallavi@example.com,Delhi,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Cash,Completed
+ORD-0275,2026-02-23,Darpan Biswas,sbalay@example.com,Hyderabad,Monitor,Electronics,5,18000,0,0.0,90000.0,Cash,Completed
+ORD-0276,2025-08-04,Osha Prasad,,Chennai,Pen Set,Stationery,2,250,0,0.0,500.0,UPI,Completed
+ORD-0277,2025-06-27,Ijaya Dani,mayawadhwa@example.org,Ludhiana,Keyboard,Electronics,2,999,0,0.0,1998.0,Cash,Completed
+ORD-0278,2026-03-05,Aarush Bajaj,ubika86@example.net,Delhi,Headphones,Electronics,4,2999,10,299.9,10796.4,UPI,Completed
+ORD-0279,2025-10-21,Yug Sharma,mohammed43@example.net,BANGALORE,Notebook,Stationery,2,120,20,24.0,192.0,Net Banking,Pending
+ORD-0280,2026-03-20,Azad Saini,khoslasamuel@example.org,Ludhiana,Monitor,Electronics,1,18000,20,3600.0,14400.0,Credit Card,Completed
+ORD-0281,2025-07-05,Sanya Bava,chaitanyaratti@example.com,Kolkata,Mouse,Electronics,1,499,0,0.0,499.0,Net Banking,Returned
+ORD-0282,2025-08-26,Daksh Dey,vivaan95@example.net,Pune,Mouse,Electronics,1,499,20,99.8,399.2,Net Banking,Pending
+ORD-0283,2026-01-14,Warjas Mittal,timothysachdev@example.com,Hyderabad,Laptop,Electronics,5,55000,10,5500.0,247500.0,Credit Card,Completed
+ORD-0284,2025-09-10,Parth Sane,wbatta@example.net,Chennai,Monitor,Electronics,1,18000,10,1800.0,16200.0,Credit Card,Pending
+ORD-0285,2026-02-11,Eiravati Saha,tdixit@example.com,Mumbai,Monitor,Electronics,2,18000,15,2700.0,30600.0,Net Banking,Completed
+ORD-0286,2025-08-06,Wridesh Kar,maanas70@example.net,Delhi,Mouse,Electronics,5,499,10,49.9,2245.5,Cash,Returned
+ORD-0287,2025-11-03,Krish Rama,aadhyajani@example.com,Ludhiana,Laptop,Electronics,4,55000,0,0.0,220000.0,UPI,Completed
+ORD-0288,2026-02-02,Shivani Prabhakar,wasonrayaan@example.org,Mumbai,Mouse,Electronics,3,499,0,0.0,1497.0,Net Banking,Completed
+ORD-0289,2025-09-08,Balveer Bora,teerthsrinivas@example.org,Chennai,Keyboard,Electronics,1,999,0,0.0,999.0,Credit Card,Returned
+ORD-0290,2026-04-29,Chavvi Aurora,ranveerdalal@example.net,Bangalore,Headphones,Electronics,2,2999,20,599.8,4798.4,UPI,Returned
+ORD-0291,2026-03-15,Xavier Jayaraman,jkhatri@example.com,Delhi,Laptop,Electronics,3,55000,0,0.0,165000.0,Credit Card,Completed
+ORD-0292,2026-03-24,Lajita Shukla,darika45@example.net,Kolkata,Pen Set,Stationery,3,250,10,25.0,675.0,Net Banking,Returned
+ORD-0293,2026-05-04,Unnati Chaudhari,nnagarajan@example.com,Hyderabad,Notebook,Stationery,1,120,20,24.0,96.0,Debit Card,Completed
+ORD-0294,2025-09-25,Chakradev Kant,,Mumbai,Laptop,Electronics,3,55000,0,0.0,165000.0,Debit Card,Returned
+ORD-0295,2026-05-25,Chakrika Dua,forumkarpe@example.com,Chennai,Monitor,Electronics,4,18000,5,900.0,68400.0,Credit Card,Returned
+ORD-0296,2026-01-03,Xalak Nazareth,vrinda77@example.org,Ludhiana,Headphones,Electronics,3,2999,20,599.8,7197.6,UPI,Returned
+ORD-0297,2026-03-07,Omkaar Dey,igour@example.net,Bangalore,Mouse,Electronics,4,499,10,49.9,1796.4,Net Banking,Completed
+ORD-0298,2025-06-18,Falan Bava,sacharlaksh@example.net,Chennai,Pen Set,Stationery,1,250,0,0.0,250.0,Debit Card,Completed
+ORD-0299,2025-08-24,Matthew Andra,yashasvishah@example.com,Kolkata,Headphones,Electronics,5,2999,15,449.85,12745.75,Credit Card,Returned
+ORD-0300,2025-06-19,Vinaya Babu,walinisha@example.org,Chennai,Pen Set,Stationery,4,250,0,0.0,1000.0,Net Banking,Returned
+ORD-0301,2025-06-02,Bhavini Badal,ggola@example.org,Kolkata,Notebook,Stationery,1,120,0,0.0,120.0,Debit Card,Pending
+ORD-0302,2025-12-16,Wridesh Handa,irya46@example.org,Pune,Keyboard,Electronics,1,999,0,0.0,999.0,UPI,Completed
+ORD-0303,2025-10-18,Tripti Kohli,charitabuch@example.net,CHENNAI,Mouse,Electronics,2,499,20,99.8,798.4,Debit Card,Returned
+ORD-0304,2026-04-25,Girik Ravi,jpurohit@example.com,Pune,Laptop,Electronics,5,55000,0,0.0,275000.0,Debit Card,Completed
+ORD-0305,2025-06-17,Onveer Butala,psaraf@example.com,Bangalore,Headphones,Electronics,1,2999,10,299.9,2699.1,Net Banking,Completed
+ORD-0306,2026-01-01,Brijesh Karpe,,Ludhiana,Monitor,Electronics,3,18000,15,2700.0,45900.0,Credit Card,Completed
+ORD-0307,2026-05-20,Avni Bali,divyababu@example.org,Kolkata,Laptop,Electronics,2,55000,5,2750.0,104500.0,Net Banking,Completed
+ORD-0308,2026-01-09,Mitali Bose,nicholas93@example.net,Pune,Notebook,Stationery,3,120,15,18.0,306.0,Credit Card,Pending
+ORD-0309,2026-04-16,Garima Rajagopalan,farhantella@example.net,Mumbai,Notebook,Stationery,4,120,0,0.0,480.0,Credit Card,Completed
+ORD-0310,2025-10-08,Guneet Sarkar,faqidoak@example.net,Pune,Headphones,Electronics,2,2999,15,449.85,5098.3,UPI,Completed
+ORD-0311,2026-03-21,Eta Balan,shravya73@example.com,Ludhiana,Pen Set,Stationery,1,250,10,25.0,225.0,Debit Card,Completed
+ORD-0312,2025-12-27,Rachana Grewal,xchada@example.net,Hyderabad,Keyboard,Electronics,3,999,10,99.9,2697.3,UPI,Completed
+ORD-0313,2025-09-18,Ethan Butala,mitesh62@example.net,Pune,Keyboard,Electronics,2,999,20,199.8,1598.4,UPI,Completed
+ORD-0314,2025-10-25,Jalsa Chhabra,ahluwaliadarika@example.com,BANGALORE,Pen Set,Stationery,4,250,20,50.0,800.0,Net Banking,Completed
+ORD-0315,2025-10-13,Harsh Deo,groverraagini@example.com,Pune,Mouse,Electronics,3,499,5,24.95,1422.15,Net Banking,Returned
+ORD-0316,2025-12-29,Harshil Bal,pandyagirik@example.net,Bangalore,Monitor,Electronics,5,18000,0,0.0,90000.0,Debit Card,Completed
+ORD-0317,2026-01-14,Lekha Arora,odika61@example.net,Chennai,Headphones,Electronics,4,2999,15,449.85,10196.6,Credit Card,Pending
+ORD-0318,2026-05-11,Omkaar Rai,liamluthra@example.com,Delhi,Keyboard,Electronics,2,999,5,49.95,1898.1,UPI,Pending
+ORD-0319,2025-09-08,Madhav Bhatnagar,radhikamajumdar@example.com,Bangalore,Keyboard,Electronics,3,999,0,0.0,2997.0,Debit Card,Completed
+ORD-0320,2025-09-20,Faraj Patel,yatin79@example.net,Mumbai,Pen Set,Stationery,5,250,0,0.0,1250.0,Debit Card,Completed
+ORD-0321,2025-08-10,Hredhaan Deshmukh,abeer65@example.net,Ludhiana,Notebook,Stationery,2,120,15,18.0,204.0,Net Banking,Pending
+ORD-0322,2025-10-21,Ria Natt,tdeshpande@example.com,BANGALORE,Mouse,Electronics,5,499,15,74.85,2120.75,Net Banking,Pending
+ORD-0323,2026-01-16,Varenya Murthy,mitalinagar@example.com,Chennai,Keyboard,Electronics,2,999,15,149.85,1698.3,Net Banking,Completed
+ORD-0324,2026-03-08,Xavier Nanda,ymand@example.com,Ludhiana,Laptop,Electronics,1,55000,0,0.0,55000.0,Credit Card,Pending
+ORD-0325,2025-10-15,Ryan Gole,shenoyshaurya@example.com,Delhi,Monitor,Electronics,5,18000,15,2700.0,76500.0,Cash,Pending
+ORD-0326,2026-04-01,Ekapad Rege,odewan@example.com,HYDERABAD,Notebook,Stationery,3,120,5,6.0,342.0,Cash,Completed
+ORD-0327,2025-08-28,Mitesh Sampath,cborah@example.net,Delhi,Headphones,Electronics,1,2999,15,449.85,2549.15,Credit Card,Returned
+ORD-0328,2025-11-29,Yashawini Sahota,parsafrederick@example.org,Hyderabad,Monitor,Electronics,4,18000,5,900.0,68400.0,Debit Card,Pending
+ORD-0329,2026-03-21,Isha Ganesan,rattagarima@example.com,Chennai,Keyboard,Electronics,3,999,20,199.8,2397.6,Debit Card,Returned
+ORD-0330,2025-07-07,Guneet Kuruvilla,yashvivenkataraman@example.net,Mumbai,Keyboard,Electronics,3,999,10,99.9,2697.3,Debit Card,Completed
+ORD-0331,2026-01-07,Sanaya Prasad,xsheth@example.net,Pune,Headphones,Electronics,1,2999,0,0.0,2999.0,Credit Card,Completed
+ORD-0332,2026-01-10,Hemani Bakshi,scheema@example.com,Kolkata,Mouse,Electronics,1,499,0,0.0,499.0,Net Banking,Returned
+ORD-0333,2026-05-19,Jack Dhar,devika57@example.org,CHENNAI,Desk Chair,Furniture,2,8500,20,1700.0,13600.0,Net Banking,Completed
+ORD-0334,2025-12-15,Ijaya Soni,sarmasneha@example.com,Pune,Desk Chair,Furniture,2,8500,5,425.0,16150.0,Cash,Completed
+ORD-0335,2025-06-22,Chaitanya Contractor,ozaikbal@example.net,Kolkata,Headphones,Electronics,1,2999,0,0.0,2999.0,Net Banking,Returned
+ORD-0336,2099-01-01,Yagnesh Varty,nathanielnarayanan@example.net,CHENNAI,Desk Chair,Furniture,2,8500,10,850.0,15300.0,UPI,Completed
+ORD-0337,2025-11-08,Vincent Ravel,quincysankaran@example.com,Pune,Notebook,Stationery,4,120,10,12.0,432.0,Debit Card,Pending
+ORD-0338,2025-06-07,Shivani Sanghvi,tagrawal@example.org,Bangalore,Laptop,Electronics,1,55000,5,2750.0,52250.0,Debit Card,Completed
+ORD-0339,2025-08-14,Dev Chaudry,jasmitnanda@example.org,Kolkata,Monitor,Electronics,3,18000,0,0.0,54000.0,UPI,Pending
+ORD-0340,2025-11-20,Adweta Suri,lipika96@example.net,Ludhiana,Desk Chair,Furniture,3,8500,10,850.0,22950.0,UPI,Returned
+ORD-0341,2025-07-10,Indira Shankar,chamelichad@example.net,MUMBAI,Headphones,Electronics,5,2999,0,0.0,14995.0,Credit Card,Completed
+ORD-0342,2025-07-18,Jacob Khare,jackson25@example.net,Chennai,Monitor,Electronics,3,18000,20,3600.0,43200.0,Net Banking,Completed
+ORD-0343,2025-07-20,Omya Devi,lsampath@example.com,Kolkata,Keyboard,Electronics,2,999,10,99.9,1798.2,Net Banking,Completed
+ORD-0344,2026-01-28,Ojas Suri,logan25@example.com,Chennai,Laptop,Electronics,1,55000,0,0.0,55000.0,Cash,Pending
+ORD-0345,2026-01-22,Jagrati Andra,mdeshpande@example.com,Bangalore,Headphones,Electronics,2,2999,10,299.9,5398.2,Debit Card,Pending
+ORD-0346,2025-12-31,Nilima Swamy,fsawhney@example.org,LUDHIANA,Pen Set,Stationery,2,250,5,12.5,475.0,Net Banking,Completed
+ORD-0347,2025-06-28,Thomas Master,maharajumang@example.net,Pune,Headphones,Electronics,5,2999,0,0.0,14995.0,UPI,Completed
+ORD-0348,2025-09-16,Tanvi Tandon,comaramrita@example.net,Ludhiana,Pen Set,Stationery,1,-999,5,12.5,237.5,UPI,Pending
+ORD-0349,2026-04-11,Benjamin Sastry,pavanichaudry@example.net,Hyderabad,Headphones,Electronics,3,2999,15,449.85,7647.45,UPI,Pending
+ORD-0350,2026-04-14,Chameli Bali,wlall@example.org,Kolkata,Headphones,Electronics,2,2999,10,299.9,5398.2,Credit Card,Completed
+ORD-0351,2025-11-13,Warjas Kadakia,priya29@example.org,Mumbai,Laptop,Electronics,5,55000,15,8250.0,233750.0,Credit Card,Completed
+ORD-0352,2026-03-27,Samuel Bhargava,avni98@example.org,Bangalore,Headphones,Electronics,3,2999,5,149.95,8547.15,Cash,Completed
+ORD-0353,2025-09-29,Bimala Loke,deshmukhnisha@example.org,Pune,Monitor,Electronics,5,18000,20,3600.0,72000.0,UPI,Completed
+ORD-0354,2025-09-11,Kevin Krish,ekantakota@example.net,Pune,Desk Chair,Furniture,5,8500,0,0.0,42500.0,Net Banking,Returned
+ORD-0355,2025-10-26,Lucky Luthra,cprashad@example.org,Chennai,Pen Set,Stationery,2,250,5,12.5,475.0,Net Banking,Completed
+ORD-0356,2026-01-28,Neha Varma,jyoti77@example.com,Hyderabad,Notebook,Stationery,5,120,5,6.0,570.0,Credit Card,Completed
+ORD-0357,2026-01-08,Girik Shanker,dev86@example.org,Ludhiana,Notebook,Stationery,2,120,0,0.0,240.0,Credit Card,Returned
+ORD-0358,2025-11-09,Warda Loyal,bhanumati58@example.net,Ludhiana,Pen Set,Stationery,4,250,0,0.0,1000.0,Debit Card,Completed
+ORD-0359,2025-07-16,Hemal Bava,chaudharytripti@example.org,Chennai,Monitor,Electronics,4,18000,20,3600.0,57600.0,Credit Card,Completed
+ORD-0360,2025-07-14,Ridhi Shan,sanghasamaksh@example.net,Mumbai,Laptop,Electronics,3,55000,15,8250.0,140250.0,Debit Card,Returned
+ORD-0361,2026-05-15,Chasmum Dutt,,Hyderabad,Notebook,Stationery,4,120,0,0.0,480.0,Net Banking,Completed
+ORD-0362,2025-10-18,Charles Randhawa,vivaan61@example.net,Hyderabad,Notebook,Stationery,2,120,0,0.0,240.0,Credit Card,Completed
+ORD-0363,2025-07-02,Tanay Sood,deoupkaar@example.net,Mumbai,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Cash,Completed
+ORD-0364,2026-02-15,Aditya Anand,jai62@example.com,BANGALORE,Headphones,Electronics,1,2999,15,449.85,2549.15,UPI,Pending
+ORD-0365,2025-06-23,Leela Chakraborty,chauhandhriti@example.com,Pune,Keyboard,Electronics,4,999,15,149.85,3396.6,Cash,Completed
+ORD-0366,2026-05-04,Laksh Raja,lukebiswas@example.net,Delhi,Notebook,Stationery,3,120,0,0.0,360.0,UPI,Pending
+ORD-0367,2025-12-31,Nitesh Sarraf,tanay26@example.net,Delhi,Desk Chair,Furniture,5,8500,15,1275.0,36125.0,Credit Card,Returned
+ORD-0368,2026-02-17,Teerth Chadha,deyjatin@example.net,Kolkata,Keyboard,Electronics,1,999,20,199.8,799.2,Cash,Completed
+ORD-0369,2026-03-06,Indali Sanghvi,logan34@example.net,Ludhiana,Notebook,Stationery,1,120,0,0.0,120.0,Net Banking,Pending
+ORD-0370,2025-06-28,Bhavani Bala,samesh89@example.net,Pune,Mouse,Electronics,3,499,0,0.0,1497.0,Net Banking,Pending
+ORD-0371,2025-08-08,Chakrika Bhagat,wardaraju@example.org,Pune,Headphones,Electronics,2,2999,20,599.8,4798.4,Debit Card,Completed
+ORD-0372,2025-08-28,Ekavir Wable,pateledhitha@example.org,PUNE,Mouse,Electronics,3,499,0,0.0,1497.0,Debit Card,Completed
+ORD-0373,2025-10-24,Jasmit Gera,bbora@example.net,Ludhiana,Laptop,Electronics,3,55000,20,11000.0,132000.0,Net Banking,Completed
+ORD-0374,2025-06-22,Adweta Kale,bhasinmitali@example.net,Kolkata,Keyboard,Electronics,5,999,20,199.8,3996.0,Cash,Pending
+ORD-0375,2025-09-15,Pallavi Ratti,yadavmichael@example.com,Mumbai,Pen Set,Stationery,1,250,5,12.5,237.5,Credit Card,Completed
+ORD-0376,2025-06-28,Farhan Vaidya,nachiketyadav@example.com,Delhi,Headphones,Electronics,3,2999,0,0.0,8997.0,Debit Card,Returned
+ORD-0377,2025-10-25,Dayita Sarkar,dalbirkonda@example.org,Ludhiana,Desk Chair,Furniture,4,8500,20,1700.0,27200.0,Debit Card,Completed
+ORD-0378,2026-05-21,Jack Setty,moreparth@example.org,Chennai,Laptop,Electronics,3,55000,15,8250.0,140250.0,Credit Card,Completed
+ORD-0379,2025-05-31,Advay Gade,hpalan@example.net,Bangalore,Mouse,Electronics,4,499,0,0.0,1996.0,Cash,Pending
+ORD-0380,2026-03-27,Ojas Prabhu,amrutadalal@example.org,Ludhiana,Notebook,Stationery,1,120,15,18.0,102.0,Debit Card,Pending
+ORD-0381,2025-10-04,Anita Viswanathan,lallfaraj@example.com,PUNE,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Credit Card,Returned
+ORD-0382,2025-11-19,Christopher Tata,jhalakdugar@example.com,Pune,Pen Set,Stationery,4,250,15,37.5,850.0,Net Banking,Completed
+ORD-0383,2026-03-23,Jack Kari,basuadvik@example.org,MUMBAI,Desk Chair,Furniture,5,8500,20,1700.0,34000.0,Net Banking,Returned
+ORD-0384,2025-06-13,Januja Rajagopal,praneelbanik@example.net,Mumbai,Pen Set,Stationery,1,250,10,25.0,225.0,UPI,Pending
+ORD-0385,2026-04-03,Udarsh Nagy,omajanagarajan@example.com,Bangalore,Desk Chair,Furniture,5,-999,10,850.0,38250.0,Credit Card,Completed
+ORD-0386,2026-04-12,Kashish Dar,golaudant@example.net,Hyderabad,Headphones,Electronics,1,2999,15,449.85,2549.15,Net Banking,Returned
+ORD-0387,2025-06-13,Ekapad Shroff,deepa51@example.net,Delhi,Mouse,Electronics,5,499,5,24.95,2370.25,Cash,Completed
+ORD-0388,2025-11-20,Jyoti Iyer,daksha93@example.com,Delhi,Monitor,Electronics,4,18000,10,1800.0,64800.0,Net Banking,Returned
+ORD-0389,2025-10-17,Rohan Korpal,abeerrout@example.org,Ludhiana,Notebook,Stationery,1,120,5,6.0,114.0,UPI,Completed
+ORD-0390,2025-08-25,Aditya Nayak,puridamyanti@example.org,Chennai,Mouse,Electronics,1,499,5,24.95,474.05,UPI,Pending
+ORD-0391,2025-08-14,Oni Swamy,dharati@example.org,Delhi,Laptop,Electronics,1,55000,5,2750.0,52250.0,Debit Card,Returned
+ORD-0392,2025-06-13,Zinal Sachar,tara19@example.org,Kolkata,Keyboard,Electronics,2,999,20,199.8,1598.4,Debit Card,Returned
+ORD-0393,2025-12-09,Meera Borde,sarankalpit@example.org,Mumbai,Headphones,Electronics,4,2999,5,149.95,11396.2,Net Banking,Completed
+ORD-0394,2025-09-17,Divya Ramaswamy,eesha74@example.org,Kolkata,Pen Set,Stationery,1,250,0,0.0,250.0,Net Banking,Completed
+ORD-0395,2025-06-25,Laban Chopra,hiteshgala@example.com,Delhi,Desk Chair,Furniture,1,8500,20,1700.0,6800.0,Debit Card,Returned
+ORD-0396,2025-11-23,Niharika Dara,sarthak74@example.com,Hyderabad,Monitor,Electronics,5,18000,5,900.0,85500.0,Credit Card,Returned
+ORD-0397,2025-09-06,Gautam Dugar,banjeet35@example.org,Hyderabad,Pen Set,Stationery,2,250,0,0.0,500.0,UPI,Completed
+ORD-0398,2025-07-01,Ishani Randhawa,mistryabha@example.org,Delhi,Monitor,Electronics,5,18000,20,3600.0,72000.0,Credit Card,Completed
+ORD-0399,2025-06-08,Sneha Krish,shereharsh@example.org,Delhi,Mouse,Electronics,1,499,10,49.9,449.1,Cash,Pending
+ORD-0400,2025-07-13,David Kapadia,rudrarattan@example.com,Delhi,Laptop,Electronics,2,55000,15,8250.0,93500.0,Cash,Returned
+ORD-0401,2026-02-17,Aashi Borde,bhattacharyyarudra@example.net,Delhi,Desk Chair,Furniture,5,8500,0,0.0,42500.0,Credit Card,Pending
+ORD-0402,2025-11-15,George Narula,basaktriya@example.org,Chennai,Notebook,Stationery,2,120,20,24.0,192.0,Net Banking,Pending
+ORD-0403,2025-07-31,Megha Taneja,rajapooja@example.org,Bangalore,Pen Set,Stationery,2,-999,0,0.0,500.0,Net Banking,Completed
+ORD-0404,2025-10-11,Rachit Maharaj,sanaya20@example.net,Delhi,Monitor,Electronics,3,18000,0,0.0,54000.0,Net Banking,Pending
+ORD-0405,2026-01-22,Chakrika Tara,dsrinivas@example.org,Pune,Keyboard,Electronics,4,999,10,99.9,3596.4,UPI,Completed
+ORD-0406,2025-09-12,Laksh Saini,zaidbahl@example.com,Kolkata,Monitor,Electronics,5,18000,0,0.0,90000.0,Cash,Completed
+ORD-0407,2026-03-26,Varsha Sundaram,yadavi56@example.com,Pune,Notebook,Stationery,4,120,0,0.0,480.0,Credit Card,Completed
+ORD-0408,2025-08-04,Eiravati Kanda,manddalbir@example.com,Pune,Notebook,Stationery,2,120,20,24.0,192.0,UPI,Pending
+ORD-0409,2025-12-18,Viraj Dutta,kotawridesh@example.com,Bangalore,Monitor,Electronics,4,18000,10,1800.0,64800.0,Cash,Completed
+ORD-0410,2025-12-20,Theodore Rama,oscar23@example.net,Mumbai,Notebook,Stationery,2,120,0,0.0,240.0,Cash,Completed
+ORD-0411,2025-09-27,Ayaan Pandey,raghavtailor@example.net,Hyderabad,Mouse,Electronics,5,499,15,74.85,2120.75,UPI,Completed
+ORD-0412,2025-09-24,Vritti Barad,bhallaviraj@example.net,Delhi,Monitor,Electronics,5,18000,10,1800.0,81000.0,UPI,Completed
+ORD-0413,2025-08-19,Vanya Acharya,saksham25@example.net,Chennai,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Debit Card,Completed
+ORD-0414,2025-08-03,Daniel Bains,luckychoudhry@example.net,Mumbai,Desk Chair,Furniture,2,8500,15,1275.0,14450.0,Cash,Completed
+ORD-0415,2026-04-26,Elijah Prakash,vchaudhuri@example.com,Chennai,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Debit Card,Returned
+ORD-0416,2025-09-29,Nakul Sarkar,lnadig@example.net,Chennai,Headphones,Electronics,5,2999,15,449.85,12745.75,Debit Card,Completed
+ORD-0417,2025-12-31,Udant Gill,umohanty@example.net,Pune,Pen Set,Stationery,5,250,5,12.5,1187.5,UPI,Returned
+ORD-0418,2025-09-18,Peter Agarwal,lbali@example.net,Chennai,Pen Set,Stationery,2,-999,0,0.0,500.0,Cash,Completed
+ORD-0419,2025-09-27,Hemang Taneja,garimabrahmbhatt@example.org,Ludhiana,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Net Banking,Pending
+ORD-0420,2025-10-08,Oliver Chakrabarti,sanya04@example.org,HYDERABAD,Monitor,Electronics,3,18000,0,0.0,54000.0,Debit Card,Completed
+ORD-0421,2025-08-31,Inaya Kunda,agarwalchanakya@example.com,HYDERABAD,Monitor,Electronics,5,18000,20,3600.0,72000.0,Cash,Pending
+ORD-0422,2025-11-13,Ojas Sachdev,wradhakrishnan@example.net,Pune,Pen Set,Stationery,3,250,20,50.0,600.0,Cash,Returned
+ORD-0423,2025-10-19,Varenya Kar,siyaborah@example.org,BANGALORE,Keyboard,Electronics,3,999,0,0.0,2997.0,Net Banking,Returned
+ORD-0424,2025-09-18,Eiravati Lal,borahhema@example.org,Delhi,Keyboard,Electronics,5,999,15,149.85,4245.75,Net Banking,Completed
+ORD-0425,2026-05-06,Naveen Borde,nigamvasudha@example.net,Delhi,Mouse,Electronics,1,499,20,99.8,399.2,Cash,Completed
+ORD-0426,2025-06-08,Nitesh Saraf,chatreshchaudhuri@example.com,Bangalore,Desk Chair,Furniture,1,8500,15,1275.0,7225.0,UPI,Completed
+ORD-0427,2025-08-14,Nimrat Zachariah,baghyawati43@example.org,Pune,Headphones,Electronics,3,2999,0,0.0,8997.0,Cash,Completed
+ORD-0428,2025-06-15,Vritti Dube,patelaarush@example.com,Kolkata,Laptop,Electronics,5,55000,10,5500.0,247500.0,UPI,Completed
+ORD-0429,2025-06-30,Varsha Iyengar,balsamuel@example.org,Delhi,Notebook,Stationery,5,120,0,0.0,600.0,Net Banking,Returned
+ORD-0430,2026-01-29,Finn Solanki,morarmitali@example.com,Bangalore,Keyboard,Electronics,1,999,0,0.0,999.0,Credit Card,Completed
+ORD-0431,2025-12-02,Gavin Ram,kamalaraj@example.com,Kolkata,Notebook,Stationery,3,120,0,0.0,360.0,UPI,Completed
+ORD-0432,2025-08-07,Chaitanya Lall,qshroff@example.org,HYDERABAD,Monitor,Electronics,4,18000,10,1800.0,64800.0,Credit Card,Completed
+ORD-0433,2026-04-17,David Dora,chadahemangini@example.net,Kolkata,Mouse,Electronics,1,499,0,0.0,499.0,Cash,Returned
+ORD-0434,2025-11-03,Darsh Ram,rwason@example.com,Delhi,Headphones,Electronics,1,2999,15,449.85,2549.15,Credit Card,Completed
+ORD-0435,2026-01-04,Vamakshi Mistry,ranabakhshi@example.net,Chennai,Headphones,Electronics,4,2999,15,449.85,10196.6,Net Banking,Completed
+ORD-0436,2026-01-03,Jai Sen,oliverkakar@example.org,Pune,Laptop,Electronics,2,55000,0,0.0,110000.0,Debit Card,Completed
+ORD-0437,2025-07-15,Pallavi Brar,ojaggi@example.org,Delhi,Mouse,Electronics,3,499,10,49.9,1347.3,Credit Card,Completed
+ORD-0438,2026-04-15,Ekaja Bhavsar,ramamekhala@example.net,Bangalore,Laptop,Electronics,2,55000,10,5500.0,99000.0,Cash,Completed
+ORD-0439,2025-09-30,Zinal Shanker,virkoni@example.org,HYDERABAD,Notebook,Stationery,2,120,10,12.0,216.0,Net Banking,Returned
+ORD-0440,2025-11-03,Manbir Chaudhry,,Bangalore,Pen Set,Stationery,4,250,20,50.0,800.0,UPI,Pending
+ORD-0441,2026-05-03,Nirja Lalla,ksunder@example.net,Kolkata,Pen Set,Stationery,1,250,0,0.0,250.0,Credit Card,Completed
+ORD-0442,2025-11-26,Orinder Majumdar,ndhawan@example.net,Kolkata,Pen Set,Stationery,5,250,20,50.0,1000.0,Debit Card,Completed
+ORD-0443,2026-02-15,Balvan Randhawa,wazir07@example.com,Hyderabad,Notebook,Stationery,4,120,5,6.0,456.0,Debit Card,Pending
+ORD-0444,2099-01-01,Anmol Nazareth,deepa47@example.net,Kolkata,Monitor,Electronics,4,18000,0,0.0,72000.0,UPI,Pending
+ORD-0445,2026-02-16,Vedant Desai,saanvi54@example.net,Mumbai,Notebook,Stationery,2,120,15,18.0,204.0,UPI,Completed
+ORD-0446,2025-11-04,Raghav Sathe,niharikasundaram@example.net,Bangalore,Keyboard,Electronics,4,999,15,149.85,3396.6,Cash,Completed
+ORD-0447,2026-04-28,Daksh Varma,dominicmukhopadhyay@example.net,Delhi,Pen Set,Stationery,1,250,0,0.0,250.0,Debit Card,Returned
+ORD-0448,2025-12-09,Krishna Viswanathan,ghosereyansh@example.org,Bangalore,Pen Set,Stationery,3,250,0,0.0,750.0,UPI,Completed
+ORD-0449,2026-04-17,Zaid Bali,xbedi@example.net,Kolkata,Monitor,Electronics,4,18000,10,1800.0,64800.0,UPI,Completed
+ORD-0450,2025-08-12,Jyoti Shetty,rdasgupta@example.org,Mumbai,Mouse,Electronics,3,499,10,49.9,1347.3,Net Banking,Pending
+ORD-0451,2025-08-28,Vrinda Sehgal,urvipalla@example.com,Ludhiana,Pen Set,Stationery,4,250,0,0.0,1000.0,Cash,Returned
+ORD-0452,2025-07-29,Gautam Mane,rajuchandran@example.org,Bangalore,Mouse,Electronics,5,499,0,0.0,2495.0,Cash,Completed
+ORD-0453,2026-04-23,Timothy Kar,amrutarout@example.net,Ludhiana,Keyboard,Electronics,3,999,0,0.0,2997.0,Cash,Completed
+ORD-0454,2025-06-03,Urvi Deo,abhiramkapur@example.com,Ludhiana,Mouse,Electronics,2,499,5,24.95,948.1,Cash,Completed
+ORD-0455,2026-01-18,Anvi Sampath,dpalla@example.com,Ludhiana,Headphones,Electronics,1,2999,0,0.0,2999.0,Credit Card,Returned
+ORD-0456,2025-08-19,Chasmum Verma,achaudry@example.net,Bangalore,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Debit Card,Completed
+ORD-0457,2026-02-08,Barkha Misra,subramaniamdevansh@example.com,Kolkata,Monitor,Electronics,3,18000,20,3600.0,43200.0,Debit Card,Returned
+ORD-0458,2025-09-11,Aradhana Lal,raghav28@example.org,Bangalore,Pen Set,Stationery,4,250,20,50.0,800.0,Debit Card,Completed
+ORD-0459,2026-05-11,Netra Nagarajan,atharvtank@example.com,Bangalore,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Cash,Completed
+ORD-0460,2025-09-04,Nidhi Rama,guptahemal@example.net,Hyderabad,Notebook,Stationery,4,120,10,12.0,432.0,Debit Card,Returned
+ORD-0461,2026-02-28,Vamakshi Parmer,onkar82@example.com,Mumbai,Notebook,Stationery,4,-999,0,0.0,480.0,Net Banking,Completed
+ORD-0462,2025-07-03,Kabir Kuruvilla,gautamichakraborty@example.org,PUNE,Keyboard,Electronics,5,999,0,0.0,4995.0,Credit Card,Returned
+ORD-0463,2025-10-11,Damyanti Salvi,kamya49@example.com,Kolkata,Notebook,Stationery,1,120,20,24.0,96.0,Cash,Completed
+ORD-0464,2025-11-23,Upma Bera,sodhirobert@example.net,Bangalore,Notebook,Stationery,2,120,0,0.0,240.0,Cash,Returned
+ORD-0465,2025-07-12,Chanchal Sachdev,doralaksh@example.org,Pune,Mouse,Electronics,4,499,10,49.9,1796.4,Net Banking,Returned
+ORD-0466,2025-10-07,Tanvi Dhar,pranit17@example.com,Chennai,Monitor,Electronics,5,18000,0,0.0,90000.0,Net Banking,Pending
+ORD-0467,2026-01-27,Dhriti Bhardwaj,sethanusha@example.org,Hyderabad,Mouse,Electronics,1,499,20,99.8,399.2,Debit Card,Completed
+ORD-0468,2026-03-18,Nathan Suri,dayalradha@example.net,Kolkata,Laptop,Electronics,5,55000,15,8250.0,233750.0,Debit Card,Returned
+ORD-0469,2025-11-09,Pushti Sood,cagrawal@example.net,Ludhiana,Mouse,Electronics,1,499,0,0.0,499.0,Credit Card,Pending
+ORD-0470,2025-08-12,Akshay Nagy,andrewagrawal@example.net,Kolkata,Desk Chair,Furniture,4,8500,0,0.0,34000.0,Cash,Pending
+ORD-0471,2026-03-07,Upkaar Padmanabhan,kai16@example.net,Pune,Keyboard,Electronics,3,-999,0,0.0,2997.0,UPI,Completed
+ORD-0472,2026-01-10,Oliver Bhattacharyya,misrabina@example.com,Bangalore,Monitor,Electronics,1,18000,0,0.0,18000.0,Debit Card,Completed
+ORD-0473,2026-03-05,Radha Desai,vrishti53@example.org,Hyderabad,Pen Set,Stationery,4,250,20,50.0,800.0,Net Banking,Returned
+ORD-0474,2026-05-14,Anirudh Kari,karankakar@example.net,Pune,Pen Set,Stationery,4,250,0,0.0,1000.0,Cash,Completed
+ORD-0475,2025-06-04,Jatin Peri,prashadaadhya@example.net,Mumbai,Mouse,Electronics,3,499,0,0.0,1497.0,UPI,Completed
+ORD-0476,2026-01-24,Chanakya Chokshi,bavajack@example.com,HYDERABAD,Mouse,Electronics,2,499,15,74.85,848.3,Net Banking,Completed
+ORD-0477,2025-11-15,Jatin Krishnan,ndua@example.net,Kolkata,Keyboard,Electronics,3,999,10,99.9,2697.3,Cash,Completed
+ORD-0478,2026-02-17,Charvi Salvi,venkateshanamika@example.net,Kolkata,Monitor,Electronics,2,18000,0,0.0,36000.0,Cash,Completed
+ORD-0479,2026-01-17,Omya Cheema,mandalishaan@example.org,Kolkata,Desk Chair,Furniture,4,8500,10,850.0,30600.0,Cash,Completed
+ORD-0480,2025-12-06,Ryan Lall,ishitarout@example.com,Mumbai,Desk Chair,Furniture,2,8500,0,0.0,17000.0,Net Banking,Completed
+ORD-0481,2025-07-28,Watika Johal,pnarayanan@example.org,Hyderabad,Keyboard,Electronics,3,999,0,0.0,2997.0,Cash,Completed
+ORD-0482,2025-05-31,Indrajit Tak,gautamvaidya@example.org,Chennai,Notebook,Stationery,4,120,10,12.0,432.0,Net Banking,Returned
+ORD-0483,2026-03-04,Aahana Kashyap,qminhas@example.com,Chennai,Monitor,Electronics,5,18000,0,0.0,90000.0,Debit Card,Returned
+ORD-0484,2025-06-15,Owen Baral,jagvi56@example.net,Mumbai,Keyboard,Electronics,3,999,10,99.9,2697.3,Credit Card,Completed
+ORD-0485,2025-07-11,Chakradev Andra,onkarnarasimhan@example.com,MUMBAI,Mouse,Electronics,2,499,0,0.0,998.0,Credit Card,Completed
+ORD-0486,2026-05-09,Amrita Chander,hema21@example.com,Kolkata,Keyboard,Electronics,5,999,5,49.95,4745.25,Net Banking,Completed
+ORD-0487,2025-10-29,Anita Rajan,psama@example.org,Pune,Monitor,Electronics,4,18000,0,0.0,72000.0,Net Banking,Completed
+ORD-0488,2025-07-09,Daniel Dutta,,Bangalore,Keyboard,Electronics,4,999,0,0.0,3996.0,Credit Card,Completed
+ORD-0489,2026-02-14,Pratyush Raghavan,ayush27@example.com,Chennai,Headphones,Electronics,5,2999,0,0.0,14995.0,UPI,Returned
+ORD-0490,2025-07-09,Ridhi Batra,laldipta@example.org,Kolkata,Keyboard,Electronics,2,999,20,199.8,1598.4,Net Banking,Pending
+ORD-0491,2026-02-24,Hamsini Venkataraman,santyuvraj@example.com,PUNE,Headphones,Electronics,4,2999,15,449.85,10196.6,Cash,Returned
+ORD-0492,2025-10-08,Manthan Bhagat,dugaryashasvi@example.com,Delhi,Headphones,Electronics,2,2999,0,0.0,5998.0,Credit Card,Completed
+ORD-0493,2026-04-22,Noah Borde,pnagi@example.com,Ludhiana,Laptop,Electronics,3,-999,0,0.0,165000.0,Credit Card,Returned
+ORD-0494,2025-09-12,Yashica Kapoor,prau@example.org,Mumbai,Headphones,Electronics,5,2999,10,299.9,13495.5,Net Banking,Completed
+ORD-0495,2025-11-21,Sara Chakrabarti,usekhon@example.org,Chennai,Notebook,Stationery,5,120,20,24.0,480.0,Net Banking,Completed
+ORD-0496,2025-12-06,Harshil Raval,jbanik@example.net,Kolkata,Headphones,Electronics,5,2999,0,0.0,14995.0,UPI,Completed
+ORD-0497,2025-05-27,Daksha Trivedi,tanmayiom@example.com,Ludhiana,Notebook,Stationery,1,120,5,6.0,114.0,Debit Card,Completed
+ORD-0498,2026-04-12,Udant Sha,urvashi57@example.org,Hyderabad,Headphones,Electronics,1,2999,20,599.8,2399.2,Credit Card,Pending
+ORD-0499,2025-07-03,Aarnav Om,bishakha88@example.com,Kolkata,Pen Set,Stationery,5,250,15,37.5,1062.5,Credit Card,Pending
+ORD-0500,2026-02-23,Chakradev Gala,tdey@example.net,Hyderabad,Keyboard,Electronics,2,999,20,199.8,1598.4,UPI,Pending
+ORD-0360,2025-07-14,Ridhi Shan,sanghasamaksh@example.net,Mumbai,Laptop,Electronics,3,55000,15,8250.0,140250.0,Debit Card,Returned
+ORD-0444,2099-01-01,Anmol Nazareth,deepa47@example.net,Kolkata,Monitor,Electronics,4,18000,0,0.0,72000.0,UPI,Pending
+ORD-0068,2025-07-25,Devansh Sachdeva,inarayanan@example.com,Delhi,Keyboard,Electronics,1,999,5,49.95,949.05,Cash,Completed
+ORD-0128,2025-07-27,Riya Pai,panini47@example.com,Bangalore,Notebook,Stationery,2,120,0,0.0,240.0,Debit Card,Completed
+ORD-0075,2025-09-12,Zayyan Bumb,vbahl@example.net,Kolkata,Desk Chair,Furniture,3,8500,0,0.0,25500.0,UPI,Pending
+ORD-0365,2025-06-23,Leela Chakraborty,chauhandhriti@example.com,PUNE,Keyboard,Electronics,4,999,15,149.85,3396.6,Cash,Completed
+ORD-0165,2025-08-18,Hemani Sani,mandervidhi@example.net,PUNE,Laptop,Electronics,3,55000,15,8250.0,140250.0,Cash,Returned
+ORD-0425,2026-05-06,Naveen Borde,nigamvasudha@example.net,Delhi,Mouse,Electronics,1,499,20,99.8,399.2,Cash,Completed
+ORD-0127,2025-09-02,Aadhya Andra,rmani@example.net,Ludhiana,Headphones,Electronics,3,2999,15,449.85,7647.45,UPI,Completed
+ORD-0390,2025-08-25,Aditya Nayak,puridamyanti@example.org,Chennai,Mouse,Electronics,1,499,5,24.95,474.05,UPI,Pending
